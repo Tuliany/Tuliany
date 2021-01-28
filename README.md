@@ -2,8 +2,8 @@
 
 ### 👩🏽‍💻 Intern Frontend developer @Izettle & Fullstack Student @Chas Academy 📚💻
 
-I've been coding everyday since January 2020. 
-I graduted from @Technigo bootcamp in june 2020. and since august 2020 I've been studying at Chas Academy to become a Fullstack.
+I've been coding everyday since January 2020 and 6 months later I graduated from Technigo bootcamp \
+And since August 2020 I've been studying at Chas Academy to become a Fullstack. \
 Since november 2020 I'm a intern at Izettle and working on a really cool project for the Data Analytics team!
 
 
