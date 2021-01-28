@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there fellow 🦄 
 
 ### 👩🏽‍💻 Intern Frontend developer @Izettle & Fullstack Student @Chas Academy 📚💻
 
@@ -22,7 +22,7 @@ Since november 2020 I'm a intern at Izettle and working on a really cool project
 * MongoDB
 
 
-**Favorite meme 🗯**
+**Favorite meme 🤪**
 
 > if you're not happy single, you won't be happy in a relationship. True happiness comes from closing 100 chrome tabs after solving an obscure programming bug. not from someone else.
 
