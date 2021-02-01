@@ -1,6 +1,6 @@
 # 👋 Hi there fellow 🦄 
 
-### 👩🏽‍💻 Intern Frontend developer @Izettle & Fullstack Student @Chas Academy 📚💻
+### 👩🏽‍💻 Intern Frontend developer @Izettle & Fullstack Student @Chas Academy 📚 💻
 
 I've been coding everyday since January 2020 and 6 months later I graduated from Technigo bootcamp \
 And since August 2020 I've been studying at Chas Academy to become a Fullstack. \
