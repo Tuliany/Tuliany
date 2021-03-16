@@ -30,3 +30,8 @@ Since november 2020 I'm a intern at Izettle and working on a really cool project
 
 > if you're not happy single, you won't be happy in a relationship. True happiness comes from closing 100 chrome tabs after solving an obscure programming bug. not from someone else.
 
+
+**Portfolio Disclaimer**
+![alt text](https://pbs.twimg.com/media/Eh86sXJWAAENleh.jpg "Logo Title Text 1")
+
+
