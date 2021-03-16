@@ -24,6 +24,7 @@ Since november 2020 I'm a intern at Izettle and working on a really cool project
 **What I'm learning now**
 * Angular
 * JQuery
+* Docker
 
 
 **Favorite meme 🤪**
