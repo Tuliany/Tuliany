@@ -25,7 +25,7 @@ In november 2020 I started as an intern at Izettle, and now I'm working on build
 * Angular
 * JQuery
 * Docker
-
+* Php
 
 **Favorite meme 🤪**
 
