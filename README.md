@@ -1,6 +1,6 @@
 # 👋 Hi there fellow 🦄 
 
-### 👩🏽‍💻 Intern Frontend developer @Izettle & Fullstack Student @Chas Academy 📚 💻
+### 👩🏽‍💻 Jr Frontend Developer @Mobiento-Deloitte & Fullstack Student @Chas Academy 📚 💻
 
 I've been coding everyday since January 2020 and 6 months later I graduated from Technigo bootcamp \
 Since August 2020 I've been studying at Chas Academy to become a Fullstack developer. \
@@ -20,11 +20,11 @@ In november 2020 I started as an intern at Izettle, and now I'm working on build
 * MySql,
 * Laravel,
 * MongoDB
+* Docker
 
 **What I'm learning now 🤔**
 * Angular
 * JQuery
-* Docker
 * Php
 
 **Favorite meme 🤪**
