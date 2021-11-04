@@ -1,10 +1,10 @@
 # 👋 Hi there fellow 🦄 
 
-### 👩🏽‍💻 Jr Frontend Developer @Mobiento-Deloitte & Fullstack Student @Chas Academy 📚 💻
+### 👩🏽‍💻 Jr Frontend Developer & Fullstack Student @Chas Academy 📚 💻
 
 I've been coding everyday since January 2020 and 6 months later I graduated from Technigo bootcamp \
 Since August 2020 I've been studying at Chas Academy to become a Fullstack developer. \
-In november 2020 I started as an intern at Izettle, and now I'm working on building our own DataCatalog.
+I've been interning at Zettle by Paypal building a data catalog. 
 
 
 **What I've learnt so far 💭**
