@@ -14,10 +14,10 @@ A time back, I was listening to Brian Tracy on a podcast and he asked a pivotal 
 And it was: If you were financially independent, would you still be working in your current profession?
 My immediate answer was: YES!
 
-**My Favorite Stack**
+**My Favorite Stack 📚**
 * Javascript 
 
-**My Favorite Framework **
+**My Favorite Framework 🧮**
 * React
  
 
