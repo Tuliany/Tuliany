@@ -1,11 +1,25 @@
-# 👋 Hi there fellow 🦄 
+# 👋 Hello there fellow 🦄 
 
-### 👩🏽‍💻 Jr Frontend Developer & Fullstack Student @Chas Academy 📚 💻
+### 👩🏽‍💻 Frontend Developer 📚 💻
+You might be wondering who I am,
+Let me tell you that, foremost, I’m a mother of two. Moreover, I’m a passionate frontend developer.
+I graduated from a developer bootcamp in the peeking season of Corona back in 2020. I was breastfeeding at the same time as my studies in the world’s strictest quarantine and had a two-year-old running around at the same time.
+It wasn’t easy, but I was devoted that I was going to finish my education and become a developer.
+I did finish the boot camp, and I do work as a frontend developer.
 
-I've been coding everyday since January 2020 and 6 months later I graduated from Technigo bootcamp \
-Since August 2020 I've been studying at Chas Academy to become a Fullstack developer. \
-I've been interning at Zettle by Paypal building a data catalog. 
+But I want you to stop for a minute and ask yourself, Can you imagine changing your career completely? Imagine yourself spending nights and days learning something completely different after two years of sleep deprivation?
+If you can, please continue.
 
+A time back, I was listening to Brian Tracy on a podcast and he asked a pivotal question that I never would have said yes to in my past life.
+And it was: If you were financially independent, would you still be working in your current profession?
+My immediate answer was: YES!
+
+**My Favorite Stack**
+* Javascript 
+
+**My Favorite Framework **
+* React
+ 
 
 **What I've learnt so far 💭**
 
@@ -14,6 +28,7 @@ I've been interning at Zettle by Paypal building a data catalog.
 * React Native
 * Redux,
 * Nextjs,
+* Gatsby
 * TypeScript,
 * NodeJs,
 * Php, 
@@ -26,6 +41,8 @@ I've been interning at Zettle by Paypal building a data catalog.
 * Angular
 * JQuery
 * Php
+* Dynamo
+* GraphQl
 
 **Favorite meme 🤪**
 
