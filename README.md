@@ -44,7 +44,7 @@ My immediate answer was: YES!
 * Dynamo
 * GraphQl
 
-**Favorite meme 🤪**
+**Inspiring code 🤪**
 
 > if you're not happy single, you won't be happy in a relationship. True happiness comes from closing 100 chrome tabs after solving an obscure programming bug. not from someone else.
 
