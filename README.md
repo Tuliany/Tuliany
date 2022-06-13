@@ -50,6 +50,6 @@ My immediate answer was: YES!
 
 
 **Portfolio Disclaimer ⚠️**
-![alt text](https://pbs.twimg.com/media/Eh86sXJWAAENleh.jpg "Logo Title Text 1")
+![alt text](https://pbs.twimg.com/media/Eh86sXJWAAENleh.jpg "Meme")
 
 
