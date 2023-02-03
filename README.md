@@ -45,6 +45,7 @@ My immediate answer was: YES!
 * Php
 * Dynamo
 * GraphQl
+* Vue
 
 **Inspiring quote 🤪**
 
