@@ -49,7 +49,7 @@ My immediate answer was: YES!
 
 **Inspiring quote 🤪**
 
-> if you're not happy single, you won't be happy in a relationship. True happiness comes from closing 100 chrome tabs after solving an obscure programming bug. Not from someone else.
+> If you're not happy single, you won't be happy in a relationship. True happiness comes from closing 100 chrome tabs after solving an obscure programming bug. Not from someone else.
 
 
 **GitHub Disclaimer ⚠️**
