@@ -52,7 +52,7 @@ My immediate answer was: YES!
 > if you're not happy single, you won't be happy in a relationship. True happiness comes from closing 100 chrome tabs after solving an obscure programming bug. not from someone else.
 
 
-**Portfolio Disclaimer ⚠️**
-![alt text](https://pbs.twimg.com/media/Eh86sXJWAAENleh.jpg "Meme")
+**GitHub Disclaimer ⚠️**
+![alt text](https://i.redd.it/jobapplicationtroubles-v0-bt2invmc5b8b1.jpg?s=0181b6dce9b977e0a348c8849d294fcc43501486 "Meme")
 
 
